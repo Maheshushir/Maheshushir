@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maheshushir
-- 👀 I’m interested in Data Science and analytics focussing on Python , R language , MYSQL , MS Excel , Power BI , Tableau. 
-- 🌱 I’m currently learning Data science and analytics 
+- 👀 I’m interested in Data Science and Data Analytics. 
+- 🌱 I’m currently learning Data science and Analytics with deep learning on Python , R language , MYSQL , MS Excel , Power BI , Tableau 
 - 📫 How to reach me : Telegram - @GRIMREAPER47
 - 😄 Pronouns: whatever you say to a simple male 
 - ⚡ Fun fact:I am an 'A' graded and 'C' certified Cadet Warrant Officer in NCC AIRWING 1MAH AIR SQN. I am molded to never quit, even in my worst situation. I have experience as a follower and a leader, which summarizes my personality traits.
