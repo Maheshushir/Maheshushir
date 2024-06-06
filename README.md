@@ -4,7 +4,7 @@
 
 
 - 👋 Hi, I’m @Maheshushir
-- 👀 I’m interested in Data Science and Data Analytics. 
+- 👀 I’m interested in Data Science and deep learning. 
 - 🌱 I’m currently learning Data science and Analytics with deep learning on Python , R language , MYSQL , MS Excel , Power BI , Tableau 
 - 📫 How to reach me : Telegram - @GRIMREAPER47
 - 😄 Pronouns: whatever you say to a simple male 
