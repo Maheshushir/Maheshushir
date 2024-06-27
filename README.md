@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning Data science and Analytics with deep learning on Python , R language , MYSQL , MS Excel , Power BI , Tableau 
 - 📫 How to reach me : Telegram - @GRIMREAPER47
 - 😄 Pronouns: he/him
+- 🔗 LinkedIn : https://www.linkedin.com/in/mahesh-ushir-abb386213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkXxQ2PH0R3GskHBnQVZTAQ%3D%3D
 
 ### Technical Expertise
 
