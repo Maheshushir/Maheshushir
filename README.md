@@ -7,8 +7,7 @@
 - 👀 I’m am currently intern at AI variant. 
 - 🌱 I’m currently learning Data science and Analytics with deep learning on Python , R language , MYSQL , MS Excel , Power BI , Tableau 
 - 😄 Pronouns: he/him
-- 📫 How to reach me : Telegram - @GRIMREAPER47 || gmail - 135790mahesh@gmail.com
-- <a href="https://www.linkedin.com/in/mahesh-ushir-abb386213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palak-oza" height="30" width="40" /></a>
+- 📫 <h3 align="left">Connect with me:</h3> Telegram - @GRIMREAPER47 || gmail - 135790mahesh@gmail.com || LinkedIn  <a href="https://www.linkedin.com/in/mahesh-ushir-abb386213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palak-oza" height="30" width="40" /></a>
 
 
 ### Technical Expertise
