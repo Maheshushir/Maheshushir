@@ -4,9 +4,9 @@
 
 
 - 👋 Hi, I’m @Maheshushir
-- 👀 I’m interested in Data Science and deep learning. 
+- 👀 I’m am currently intern at AI variant. 
 - 🌱 I’m currently learning Data science and Analytics with deep learning on Python , R language , MYSQL , MS Excel , Power BI , Tableau 
-- 📫 How to reach me : Telegram - @GRIMREAPER47
+- 📫 How to reach me : Telegram - @GRIMREAPER47 || gmail - 135790mahesh@gmail.com
 - 😄 Pronouns: he/him
 
 ### Technical Expertise
