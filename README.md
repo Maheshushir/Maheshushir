@@ -4,7 +4,6 @@
 
 - 👋 Hi, I’m Mahesh Ushir
 - 👀 Working as a Data Analyst, Automation strategist and Feelance Sports Analyst
-- 
 <h3 align="left">Connect with me:</h3> Telegram - @Grimreaper47 || gmail - 135790mahesh@gmail.com || LinkedIn  <a href="https://www.linkedin.com/in/mahesh-ushir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh-ushir" height="30" width="40" /></a>
 
 
